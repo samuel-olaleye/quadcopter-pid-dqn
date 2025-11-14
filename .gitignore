@@ -1,0 +1,6 @@
+.venv/
+pycache/*.pyc
+.DS_Store
+results/.csv results/.png
+models/*.h5
+.ipynb_checkpoints
